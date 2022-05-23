@@ -1,8 +1,8 @@
-Don't talk to me you filth...
+﻿Don't talk to me you filth...
 Hurry up and get out of my sight you rumin!
 ->Option
 === Option ===
-+ [Ask for Help] -> Help
++ [Ask for Help] -> HHelp
 + [Apologise] -> Apologise
 * [Unfriendly] -> Unfriendly
 
@@ -24,7 +24,7 @@ Im not flithy like you
 ->HelpChoices
 === HelpChoices ===
 * [Bake] -> bake
-+ [Ask for help again] -> HHelp
+
 
 === bake ===
 Shall i bake you right now? Want me to bake you right now? Should i bake you right now? idiooot!
